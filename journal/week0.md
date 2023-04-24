@@ -13,3 +13,26 @@ I was able to use aws cloudshell.
 Also, I was able to generate security credentials on my aws account which are the access key and security key.
 
 I was able to install the aws cli on gitpod cde and I can reference that with the link to the [gitpod yaml file](https://github.com/bennie-jr/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml) in repo
+
+### Create a Budget
+I created a budget with a spend of $5 because i cannot afford any kind of spend. I also created just one budget because i did not want to exceed the free tier limit on budgets.
+![proof of budget creation](assets/week0-create%20budget.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Homework Challenges
