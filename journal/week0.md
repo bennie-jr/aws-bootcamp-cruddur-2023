@@ -18,6 +18,9 @@ I was able to install the aws cli on gitpod cde and I can reference that with th
 I created a budget with a spend of $5 because i cannot afford any kind of spend. I also created just one budget because i did not want to exceed the free tier limit on budgets.
 ![proof of budget creation](assets/week0-create%20budget.png)
 
+### Create a Billing Alarm
+Created a Billing Alarm with aws cloudwatch on my aws account to trigger when daily estimated charges exceed $1.
+![proof of billing alarm](assets/week0-billing%20alarm.png)
 
 
 
