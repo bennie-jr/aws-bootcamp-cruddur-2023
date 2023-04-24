@@ -22,6 +22,11 @@ I created a budget with a spend of $5 because i cannot afford any kind of spend.
 Created a Billing Alarm with aws cloudwatch on my aws account to trigger when daily estimated charges exceed $1.
 ![proof of billing alarm](assets/week0-billing%20alarm.png)
 
+### Recreate Conceptual Diagram on Lucid Charts
+![Conceptual Diagram on Lucid Charts](assets/Conceptual%20diagram%20lucid%20charts.png)
+
+[Lucid Charts Shared link](https://lucid.app/lucidchart/ae9d7341-75f1-4709-921d-fed233aab17f/edit?viewport_loc=-3758%2C-975%2C2707%2C1387%2C0_0&invitationId=inv_3f9d8550-2fb0-4b79-b5d3-67010a08cb81)
+
 
 
 
