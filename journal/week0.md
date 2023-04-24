@@ -27,6 +27,10 @@ Created a Billing Alarm with aws cloudwatch on my aws account to trigger when da
 
 [Lucid Charts Shared link](https://lucid.app/lucidchart/ae9d7341-75f1-4709-921d-fed233aab17f/edit?viewport_loc=-3758%2C-975%2C2707%2C1387%2C0_0&invitationId=inv_3f9d8550-2fb0-4b79-b5d3-67010a08cb81)
 
+### Recreate Logical Architectural Diagram on Lucid Charts
+![Logical Architectural Diagram on Lucid Charts](assets/Week0-logical%20Archictectural%20Diagram.png)
+
+[Lucid Charts Shared Link](https://lucid.app/lucidchart/781b1b56-bd8a-4e3e-8283-902f39c8e213/edit?viewport_loc=162%2C-167%2C2707%2C1387%2C0_0&invitationId=inv_2652ad75-d301-4785-bcc1-be2f2c7387a6)
 
 
 
