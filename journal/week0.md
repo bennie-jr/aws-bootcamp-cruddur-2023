@@ -33,18 +33,10 @@ Created a Billing Alarm with aws cloudwatch on my aws account to trigger when da
 [Lucid Charts Shared Link](https://lucid.app/lucidchart/781b1b56-bd8a-4e3e-8283-902f39c8e213/edit?viewport_loc=162%2C-167%2C2707%2C1387%2C0_0&invitationId=inv_2652ad75-d301-4785-bcc1-be2f2c7387a6)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Homework Challenges
+
+### Root Credential Removal, Set MFA and IAM Role
+I successfully destroyed my root user credentials , set mfa on my account and create an IAM role for my user
+
+###  Setup EventBridge To Health Dashboard To SNS To Send Service Health Notification
+![EventBridge to Health Dashboard to SNS](assets/Week0-eventbridge-sns.png)
