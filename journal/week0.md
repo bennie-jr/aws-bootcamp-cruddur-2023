@@ -40,3 +40,12 @@ I successfully destroyed my root user credentials , set mfa on my account and cr
 
 ###  Setup EventBridge To Health Dashboard To SNS To Send Service Health Notification
 ![EventBridge to Health Dashboard to SNS](assets/Week0-eventbridge-sns.png)
+
+### AWS Well Architected Tool (No specialized lens) Questions Review
+I finished reviewing all the questions under Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization and Sustainability.
+
+### Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
+![CI/CD Logical pipeline](assets/ciicd%20pipeline.png)
+[Lucid Charts Shared Link](https://lucid.app/lucidchart/368e8e07-2a3c-4f9d-be83-8300c56fcf9e/edit?viewport_loc=-548%2C700%2C2712%2C1387%2C0_0&invitationId=inv_7a3ae2d9-a832-4158-9ed3-bae00e2bd448)
+
+
