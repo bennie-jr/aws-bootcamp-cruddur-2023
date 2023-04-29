@@ -23,3 +23,13 @@ I also connected notifications to both the frontend(react) and the backend(flask
 I created a route in the entry point [app.js](https://github.com/bennie-jr/aws-bootcamp-cruddur-2023/blob/main/frontend-react-js/src/App.js) since the app uses react router and mapped it to the notification feed page. I created the [notifications feed page](https://github.com/bennie-jr/aws-bootcamp-cruddur-2023/blob/main/frontend-react-js/src/pages/NotificationsFeedPage.js) in the pages folder and connected the backend and the api endpoint.
 
 ![React Frontend notifications feature](assets/Week1-frontend-notifications.png)
+
+
+### Run DynamoDB Local Container and ensure it works
+
+![Proof of working DynamoDB local](assets/week1-dynamodb.png)
+
+
+### Run Postgres Container and ensure it works
+
+![Proof of working postgres container](assets/week1-postgres.png)
