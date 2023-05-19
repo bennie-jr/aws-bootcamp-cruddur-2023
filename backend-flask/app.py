@@ -59,9 +59,9 @@ tracer = trace.get_tracer(__name__)
 app = Flask(__name__)
 
 # X-RAY ---------
-# xray_url = os.getenv("AWS_XRAY_URL")
-# xray_recorder.configure(service='backend-flask', dynamic_naming=xray_url)
-# XRayMiddleware(app, xray_recorder)
+xray_url = os.getenv("AWS_XRAY_URL")
+xray_recorder.configure(service='backend-flask', dynamic_naming=xray_url)
+XRayMiddleware(app, xray_recorder)
 
 # HoneyComb -----
 # Initialize automatic instrumentation with Flask
@@ -80,6 +80,7 @@ cors = CORS(
   methods="OPTIONS,GET,HEAD,POST"
 )
 
+# Cloudwatch LOgs -------
 # @app.after_request
 # def after_request(response):
 #     timestamp = strftime('[%Y-%b-%d %H:%M]')
