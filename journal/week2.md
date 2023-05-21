@@ -12,7 +12,7 @@ Configured a custom logger to send data to my AWS CloudWatch Logs
 
 ### Integrate Rollbar and capture and error
 
-I was able to integrate Rollbar into the the cruddr app but there seems to be a problem with the Rollbar service so the data could not be sent or received.
+I was able to integrate Rollbar into the cruddr app but there seems to be a problem with the Rollbar service so the data could not be sent or received.
  
 ### Instrument Honeycomb with OTEL
  
