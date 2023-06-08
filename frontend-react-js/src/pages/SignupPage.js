@@ -19,7 +19,7 @@ export default function SignupPage() {
 
 const onsubmit = async (event) => {
   event.preventDefault();
-  setError('')
+  setErrors('')
   try {
     const { user } = await Auth.signUp({
       username: email,
@@ -37,7 +37,7 @@ const onsubmit = async (event) => {
     window.location.href = `/confirm?email=${email}`
   } catch (error) {
       console.log(error);
-      setError(error.message)
+      setErrors(error.message)
   }
   return false
 }
