@@ -151,7 +151,7 @@ def data_create_message():
 @xray_recorder.capture('activities_home')
 def data_home():
   app.logger.debug("AUTH HEADER")
-  print(
+  app.logger.debug(
     request.headers.get('Authorization')
   )
   # logger=LOGGER this for cloudwatch logs use it in the .run(logger=LOGGER) when ready to use
